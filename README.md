@@ -7,4 +7,4 @@
 - 💬 Ask me about stocks
 - 📫 How to reach me: 🕊️
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: If you feel books are boaring, try facebook and macbook.🙂
+- ⚡ Fun fact: If you feel books are boring, try facebook and macbook.🙂
