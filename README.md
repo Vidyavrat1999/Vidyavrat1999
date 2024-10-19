@@ -28,7 +28,7 @@
 
 <p align="center">
 	<a href="https://github.com/Vidyavrat1999">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidyavrat1999&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Vidyavrat1999">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidyavrat1999&langs_count=2&layout=compact&theme=blue-green" width="100%" alt="Vidyavrat1999">
 	</a>
 </p>
 <br/>
